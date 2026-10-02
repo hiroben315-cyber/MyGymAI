@@ -1,0 +1,6 @@
+{
+  "name": "PPL 漸進式超負荷訓練記錄教練",
+  "description": "專為 171cm/80kg 身體重組設計的 PPL 漸進式超負荷記錄教練，自動生成複合動作下組重量目標與 160g 蛋白質打卡檢視。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
